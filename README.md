@@ -20,7 +20,7 @@ Future work:
 
 Any feed or suggestion would be appreciated :
 
-My email address is i.jimenez.morgado@gmail.com.
+My email address is i.jimenez.morgado@gmail.com or you can follow me on twitter [i_morgado](https://twitter.com/i_morgado).
 
 ## Copyright and license
 
