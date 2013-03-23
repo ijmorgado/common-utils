@@ -1,0 +1,9 @@
+#  eclipse ignore #
+
+*.project
+*.classpath
+
+#  java project generated files #
+
+*.class
+*.jar
