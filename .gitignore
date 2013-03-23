@@ -1,0 +1,4 @@
+#  eclipse ignore #
+
+*.project
+*.classpath
