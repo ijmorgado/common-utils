@@ -6,7 +6,7 @@ import java.awt.Point;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
-public class UVentanasCW extends UVentanas implements WindowListener
+public class UVentanasCW extends UWindow implements WindowListener
 {  public Container contenedor;
 
    public UVentanasCW()

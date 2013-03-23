@@ -4,7 +4,7 @@ import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.Point;
 
-public class UVentanasC extends UVentanas
+public class UVentanasC extends UWindow
 {  protected Container contenedor;
 
    public UVentanasC()

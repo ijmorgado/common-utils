@@ -7,9 +7,9 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Point;
 import java.awt.Toolkit;
-import com.utils.window.UVentanas;
+import com.utils.window.UWindow;
 
-public class UVentanasCG extends UVentanas
+public class UVentanasCG extends UWindow
 {  public  UDobleBufferGrafico dbg;
    private int                 tiempo; 
    private Color               color;
